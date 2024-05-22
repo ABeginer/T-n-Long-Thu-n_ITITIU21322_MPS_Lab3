@@ -1,9 +1,4 @@
-/*
- * global.h
- *
- *  Created on: 30 Jul 2023
- *      Author: Phuc Le
- */
+
 
 #ifndef __GLOBAL_H_
 #define __GLOBAL_H_

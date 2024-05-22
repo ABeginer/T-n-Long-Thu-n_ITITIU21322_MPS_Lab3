@@ -1,9 +1,4 @@
-/*
- * global.c
- *
- *  Created on: 30 Jul 2023
- *      Author: HP
- */
+
 #include "global.h"
 
 int mode = 1;
